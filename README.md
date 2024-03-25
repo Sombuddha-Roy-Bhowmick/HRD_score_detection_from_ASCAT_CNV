@@ -27,8 +27,15 @@ scarHRD.R (Gives the genomic scar scores)
 
 Sample Output: HRD_Score.txt
 
-# HRD	Telomeric AI	LST	HRD-sum
+# Output
+
+HRD	Telomeric AI	LST	HRD-sum
+
 14	19	15	48
+
+For detailed description, please refer to the official github page of scarHRD.
+
+
 
 
 
