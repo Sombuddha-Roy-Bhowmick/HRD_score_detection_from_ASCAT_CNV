@@ -1,0 +1,2 @@
+HRD	Telomeric AI	LST	HRD-sum
+14	19	15	48
