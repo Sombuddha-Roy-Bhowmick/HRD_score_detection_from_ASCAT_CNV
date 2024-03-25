@@ -17,6 +17,18 @@ Rscript scarHRD.R
 
 # Description
 
+TumorSample-A.segments.txt (ASCAT Output - Tumor Segment File)
+
+Ploidy.R (Extracts the ploidy value from another ASCAT Output - ASCAT_objects.Rdata)
+
+scarHRD_input_formatting.py (Reformats the input - TumorSample-A.segments.txt into the desired input for scarHRD tool)
+
+scarHRD.R (Gives the genomic scar scores)
+
+Sample Output: HRD_Score.txt
+
+# HRD	Telomeric AI	LST	HRD-sum
+14	19	15	48
 
 
 
